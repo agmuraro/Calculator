@@ -1,11 +1,11 @@
-# Calculadora Simples
+# Simple Calculator
 
-Este projeto é uma calculadora simples desenvolvida em React com TypeScript.  
-Ela realiza operações básicas entre dois valores numéricos.
+This project is a simple calculator developed in React with TypeScript.
+It performs basic operations between two numeric values.
 
-## Funcionalidades
+## Features
 
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
+- Addition
+- Subtraction
+- Multiplication
+- Division
