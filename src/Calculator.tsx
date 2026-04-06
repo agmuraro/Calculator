@@ -106,8 +106,8 @@ export function Calculator() {
           >
             +
           </button>
-          <button onClick={() => handleNumber('2')}>2</button>
           <button onClick={() => handleNumber('1')}>1</button>
+          <button onClick={() => handleNumber('2')}>2</button>
           <button onClick={() => handleNumber('3')}>3</button>
           <button className='operatorButton' onClick={() => handleNumber('.')}>
             .
